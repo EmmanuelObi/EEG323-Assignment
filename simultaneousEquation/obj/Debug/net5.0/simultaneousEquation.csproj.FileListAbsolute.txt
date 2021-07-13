@@ -1,0 +1,16 @@
+C:\Users\PAVILION\Desktop\EEG323 300lvl\simultaneousEquation\bin\Debug\net5.0\simultaneousEquation.exe
+C:\Users\PAVILION\Desktop\EEG323 300lvl\simultaneousEquation\bin\Debug\net5.0\simultaneousEquation.deps.json
+C:\Users\PAVILION\Desktop\EEG323 300lvl\simultaneousEquation\bin\Debug\net5.0\simultaneousEquation.runtimeconfig.json
+C:\Users\PAVILION\Desktop\EEG323 300lvl\simultaneousEquation\bin\Debug\net5.0\simultaneousEquation.runtimeconfig.dev.json
+C:\Users\PAVILION\Desktop\EEG323 300lvl\simultaneousEquation\bin\Debug\net5.0\simultaneousEquation.dll
+C:\Users\PAVILION\Desktop\EEG323 300lvl\simultaneousEquation\bin\Debug\net5.0\ref\simultaneousEquation.dll
+C:\Users\PAVILION\Desktop\EEG323 300lvl\simultaneousEquation\bin\Debug\net5.0\simultaneousEquation.pdb
+C:\Users\PAVILION\Desktop\EEG323 300lvl\simultaneousEquation\obj\Debug\net5.0\simultaneousEquation.csproj.AssemblyReference.cache
+C:\Users\PAVILION\Desktop\EEG323 300lvl\simultaneousEquation\obj\Debug\net5.0\simultaneousEquation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAVILION\Desktop\EEG323 300lvl\simultaneousEquation\obj\Debug\net5.0\simultaneousEquation.AssemblyInfoInputs.cache
+C:\Users\PAVILION\Desktop\EEG323 300lvl\simultaneousEquation\obj\Debug\net5.0\simultaneousEquation.AssemblyInfo.cs
+C:\Users\PAVILION\Desktop\EEG323 300lvl\simultaneousEquation\obj\Debug\net5.0\simultaneousEquation.csproj.CoreCompileInputs.cache
+C:\Users\PAVILION\Desktop\EEG323 300lvl\simultaneousEquation\obj\Debug\net5.0\simultaneousEquation.dll
+C:\Users\PAVILION\Desktop\EEG323 300lvl\simultaneousEquation\obj\Debug\net5.0\ref\simultaneousEquation.dll
+C:\Users\PAVILION\Desktop\EEG323 300lvl\simultaneousEquation\obj\Debug\net5.0\simultaneousEquation.pdb
+C:\Users\PAVILION\Desktop\EEG323 300lvl\simultaneousEquation\obj\Debug\net5.0\simultaneousEquation.genruntimeconfig.cache
